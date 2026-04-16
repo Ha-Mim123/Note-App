@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "uuid": "^13.0.0"
+  }
+}
