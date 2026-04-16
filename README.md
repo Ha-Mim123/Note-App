@@ -12,3 +12,6 @@ A simple and responsive Notes App built with React. Users can add, edit, and del
 
 ## 🛠️ Tech Stack
 React, JavaScript, HTML, CSS  
+
+## Netlify link
+https://clever-croquembouche-a9e2c0.netlify.app/
